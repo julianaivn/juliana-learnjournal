@@ -57,7 +57,7 @@ fördert den Austausch von Wissen und Erfahrungen, damit Teams voneinander und a
 ---
 ### The Three Ways
 Die `Three Ways` beschreiben drei wichtige Grundprinzipien von DevOps: 
-- Flow
+- Fl
 - Feedback
 - kontinuierliches Lernen
 
@@ -77,4 +77,9 @@ Der `Third Way` fördert kontinuierliches Lernen, Experimente und eine offene Fe
 
 ## Reflexion
 
---
+Wir starteten den Tag mit einer Einführung in das neue Modul. Dabei erklärte uns der Lehrer zuerst die Konzepte `Multiple WIP` und `One Piece Flow`. Anschliessend machten wir eine kleine interaktive Übung zum `Push- und Pull-System`, wodurch die Unterschiede zwischen den beiden Systemen verständlicher wurden.
+
+Danach begannen wir mit der Gruppenarbeit. Als Erstes verschafften wir uns gemeinsam einen Überblick über den Auftrag und bereiteten die benötigten Grundlagen vor. Dazu gehörten unter anderem die **Git-Repositories, die Aufgabenverteilung und das Repository für das Lernjournal**. Anschliessend konnten wir bereits mit den ersten Aufgaben starten. Ich beschäftigte mich hauptsächlich mit der Theorie zum `CALMS-Modell` und `den Three Ways` und arbeitete an den ersten Theoriebeiträgen dazu.
+
+Die Zusammenarbeit in der Gruppe verlief gut. Wir konnten die Aufgaben schnell und sinnvoll untereinander aufteilen und waren uns einig, wie wir vorgehen möchten. Dadurch konnten wir ohne grosse Schwierigkeiten mit der eigentlichen Arbeit beginnen.
+
