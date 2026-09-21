@@ -9,3 +9,9 @@
 - The Three Ways
 
 [Day 2](https://github.com/julianaivn/juliana-learnjournal/blob/main/day2.md) - 24.08.2026
+
+[Day 3](https://github.com/julianaivn/juliana-learnjournal/blob/main/day3.md) - 31.08.2026
+
+[Day 4](https://github.com/julianaivn/juliana-learnjournal/blob/main/day4.md) - 07.09.2026
+
+[Day 5](https://github.com/julianaivn/juliana-learnjournal/blob/main/day5.md) - 21.09.2026
